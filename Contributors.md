@@ -2741,4 +2741,3 @@
 - [Harut Galadzhyan](https://github.com/theoriginalhush)
 - [Praveen Dubba](https://github.com/PraveenDubba)
 - [Ian Pritt](https://github.com/ipritt)
-- [Rafael Santos](https://github.com/rafaelnsantos)
